@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Siraj</h1>
-<h3 align="center">A passionate full stack software engineer from Srilanka</h3>
+<h3 align="center">A passionate full stack software engineer at codzbe PVT LTD from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-siraj&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-siraj" /> </p>
 
