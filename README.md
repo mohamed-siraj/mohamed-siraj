@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [First Ad](https://test-web.firstad.lk/)
 
-- 👨‍💻 All of my projects are available at [http://mohamed-siraj.techcodz.com/](mohamed-siraj.techcodz.com)
+- 👨‍💻 All of my projects are available at [http://mohamed-siraj.techcodz.com/](http://mohamed-siraj.techcodz.com/)
 
 - 📫 How to reach me **amsiraj94@gmail.com**
 
