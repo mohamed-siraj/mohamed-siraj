@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Siraj</h1>
 <h3 align="center">A passionate full stack software engineer from Srilanka</h3>
 
-<img align="right"  alt="Coding" width="250" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/>
+<img align="right"  alt="Coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxndnY0a2huZmUwc3Q0eGw3czdic3VxZGczc3dsajYyemttNnRvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> Passionate Software Engineer with 4.5+ years of experience in developing web and mobile applications and backend systems. Skilled at writing clear, concise code that is easy to maintain and troubleshoot. Experienced in working with both small and large teams across multiple projects and clients. Able to work independently of remote locations or in office environments as needed by the company.</p>
 
