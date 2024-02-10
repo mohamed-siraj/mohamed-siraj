@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m-mohamed-siraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-mohamed-siraj" height="30" width="40" /></a>
-<a href="https://instagram.com/sirajvlogssv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sirajvlogssv" height="30" width="40" /></a>
+<a href="[https://instagram.com/sirajvlogssv](https://www.instagram.com/m.m.mohamedsiraj/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sirajvlogssv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
