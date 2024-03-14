@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [http://mohamed-siraj.techcodz.com/](http://mohamed-siraj.techcodz.com/)
 
-- 📫 How to reach me **amsiraj94@gmail.com**
+- 📫 How to reach me **mmohamedsiraj94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
