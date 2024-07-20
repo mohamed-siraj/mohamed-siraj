@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQGqFsBsLxMoDQ/profile-displaybackgroundimage-shrink_350_1400/0/1714324250607?e=1720656000&v=beta&t=jDnRcV7r46Iedoz5vIylD9nGnzvDBQ3bfJcntp99hZg)
+![MasterHead](https://mohamed-siraj.techcodz.com/assets/siraj/seo.png)
 <h1 align="center">Hi 👋, I'm Mohamed Siraj</h1>
 <h3 align="center">A passionate full stack software engineer from Srilanka</h3>
 
