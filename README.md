@@ -1,4 +1,4 @@
-![MasterHead]() 
+![MasterHead](https://mohamed-siraj.techcodz.com/assets/siraj/seo.png) 
 <h1 align="center">Hi 👋, I'm Mohamed Siraj</h1>
 <h3 align="center">A passionate full stack software engineer from Srilanka</h3>
 
