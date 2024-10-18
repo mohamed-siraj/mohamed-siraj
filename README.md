@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQEF1DxB3WfJOQ/profile-displaybackgroundimage-shrink_350_1400/0/1721452269774?e=1726704000&v=beta&t=iacdbi_42IOE9LxxgZ7Yj34LFcg1XY1LRfJHq-35ow8) 
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEF1DxB3WfJOQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721452269774?e=1734566400&v=beta&t=BcKilu2iJ6BtkJJDubSvtv1m0xGQdCrFko-I8SXxoJ4) 
 <h1 align="center">Hi 👋, I'm Mohamed Siraj</h1>
 <h3 align="center">A passionate full stack software engineer from Srilanka</h3>
 
